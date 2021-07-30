@@ -12,8 +12,8 @@ The colors of each slot are dynamically updated based on CSS classes of past, pr
 ## Usage
 To use the calendar, simply type in your tasks for the day and hit the save icon on the right.
 ## Screenshot
-![project]()
-[Deployed project available here]
+![project](https://github.com/mrogers23458/Work-Day-Calendar/blob/master/Assets/WorkdayReadmeSS.jpg)
+[Deployed project available here](https://mrogers23458.github.io/Work-Day-Calendar/)
 ## Credits
 
 Thank you to Treighton Mauldin, Chris Song, Ryan Skog for all of your instruction over the past week. It's been a pleasure to learn Javascript from/with you!
