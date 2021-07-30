@@ -59,8 +59,3 @@ $(document).ready(function(){
     $('#hour17 textarea').val(localStorage.getItem('hour17'))
 
 })
-
-$('.time-block').each(function(){
-    var testBlock = $(this).attr('id')
-    console.log(testBlock)
-})
