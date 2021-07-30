@@ -18,11 +18,10 @@ function displayTime(){
 
 //set current hour
 var currentHour = moment().hour()
-console.log(currentHour)
 //determine block time and check block time against current time
 $('.time-block').each(function(){
     var blockHour = parseInt($(this).attr("id").split("hour")[1]);
-    console.log(blockHour, currentHour)
+
 
     if (currentHour > blockHour){
         $(this).addClass('past')
@@ -65,4 +64,3 @@ $('.time-block').each(function(){
     var testBlock = $(this).attr('id')
     console.log(testBlock)
 })
- n 
