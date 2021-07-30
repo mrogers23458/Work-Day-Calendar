@@ -59,3 +59,5 @@ $(document).ready(function(){
     $('#hour17 textarea').val(localStorage.getItem('hour17'))
 
 })
+
+console.log('test')
