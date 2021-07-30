@@ -12,7 +12,7 @@ The colors of each slot are dynamically updated based on CSS classes of past, pr
 ## Usage
 To use the calendar, simply type in your tasks for the day and hit the save icon on the right.
 ## Screenshot
-![project](https://github.com/mrogers23458/Work-Day-Calendar/blob/master/Assets/WorkdayReadmeSS.jpg)
+![project](https://github.com/mrogers23458/Work-Day-Calendar/blob/master/assets/WorkdayReadmeSS.jpg)
 [Deployed project available here](https://mrogers23458.github.io/Work-Day-Calendar/)
 ## Credits
 
