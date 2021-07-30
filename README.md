@@ -19,4 +19,4 @@ To use the calendar, simply type in your tasks for the day and hit the save icon
 Thank you to Treighton Mauldin, Chris Song, Ryan Skog for all of your instruction over the past week. It's been a pleasure to learn Javascript from/with you!
 ## License
 
-CC0 1.0 Universal
+CC0 1.0 Universalgit
